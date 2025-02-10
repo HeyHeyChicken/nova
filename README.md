@@ -32,9 +32,11 @@ You can communicate with it orally or in writing, most of his skills are designe
 
 ## ☁️ Try with a Single-Click
 
-Gitpod will automatically setup an environment and run an instance for you.
+Gitpod or Codeanywhere will automatically setup an environment and run an instance for you.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/HeyHeyChicken/NOVA)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/HeyHeyChicken/NOVA)
 
 ❗ The server and client pages will not open automatically, click the " <img width="20" src="https://raw.githubusercontent.com/HeyHeyChicken/NOVA/master/resources/GitPodPortIcon.png" /> Remote Explorer " button (on the left side panel), then the " <img width="20" src="https://raw.githubusercontent.com/HeyHeyChicken/NOVA/master/resources/GitPodOpenBrowserIcon.png" /> Open Browser " button for ports "8080" and "8083".
 
